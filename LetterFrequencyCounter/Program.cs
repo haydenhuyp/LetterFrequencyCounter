@@ -1,4 +1,7 @@
-﻿using System;
+﻿/* 
+ * Finish by Huy Pham on Jul 14 2021
+ */
+using System;
 
 namespace LetterFrequencyCounter
 {
